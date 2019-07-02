@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Implementation-Title: Pharma Maven Webapp
-Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Version: 2.1.3-SNAPSHOT
 Built-By: md.shariful
 Implementation-Vendor-Id: com.pharma
 Build-Jdk: 1.8.0_191
